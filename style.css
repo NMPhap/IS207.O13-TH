@@ -1,4 +1,47 @@
-html, body {
+html,
+body {
     width: 100%;
+    height: 100%;
+}
+
+.header {
+    background-color: red;
+    width: 100%;
+    height: 10%;
+}
+
+.main {
+    display: flex;
+    background-color: green;
+    width: 100%;
+    height: 80%;
+}
+
+.content {
+    background-color: blue;
+    width: 74%;
+    height: 100%;
+}
+
+.banner {
+    background-color: pink;
+    width: 100%;
+    height: 45%;
+}
+
+.grid {
+    background-color: purple;
+    width: 100%;
+    height: 55%;
+}
+
+.footer {
+    background-color: yellow;
+    width: 100%;
+    height: 10%;
+}
+.sideBar{
+    background-color: navajowhite;
+    width: 26%;
     height: 100%;
 }
